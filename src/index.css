@@ -28,3 +28,7 @@ body {
 .numbers {
   background-color: #e0e0e0;
 }
+
+.table-responsive{
+  width: 50%;
+}
