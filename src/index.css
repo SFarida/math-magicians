@@ -16,12 +16,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family:
-    source-code-pro,
-    Menlo,
-    Monaco,
-    Consolas,
-    'Courier New',
-    monospace;
+.result {
+  background-color: #848693;
+  text-align: end;
+}
+
+.operator {
+  background-color: #f39148 !important;
+}
+
+.numbers {
+  background-color: #e0e0e0;
 }
