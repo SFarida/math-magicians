@@ -32,3 +32,12 @@ body {
 .table-responsive {
   width: 50%;
 }
+
+.operator button {
+  background-color: #f39148 !important;
+}
+
+.numbers td button {
+  border: none;
+  background: #e0e0e0;
+}
