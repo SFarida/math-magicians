@@ -29,19 +29,19 @@ body {
   background: #e0e0e0;
 }
 
-.content{
+.content {
   margin: auto;
   height: 100vh;
   display: flex;
   align-items: center;
 }
 
-.nav_link{
+.nav_link {
   text-decoration: none;
   color: white;
 }
 
-.nav_link:hover{
+.nav_link:hover {
   color: #f39148;
 }
 
@@ -49,18 +49,18 @@ body {
   color: #f39148;
 }
 
-.navbar{
+.navbar {
   background-color: #848693;
 }
 
 @media screen and (max-width: 991px) {
-  .content{
+  .content {
     padding-top: 100px;
   }
 }
 
-@media screen and (max-width:417px){
-  .content{
+@media screen and (max-width: 417px) {
+  .content {
     flex-wrap: wrap;
     padding-top: 200px;
   }
