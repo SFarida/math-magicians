@@ -67,8 +67,8 @@ Not yet published
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming soon
-<!-- - [Live Demo Link](https://sfarida.github.io/abijanais/) -->
+
+- [Live Demo Link](https://sfarida-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
