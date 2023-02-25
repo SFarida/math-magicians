@@ -2,9 +2,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
   <h1><b>Math Magicians</b></h1>
-
+   <img src="project_screenshot.png" alt="Awesome Meals image" width="100%" />
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +34,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-**Math Magicians** is a react app ...
+**Math Magicians** is a react app about mathematics, it has the following pages home, quote and calculator.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,7 +93,7 @@ Run the following command
 
 ### Setup
 
-Clone this repository to your desired folder, you can also set up HTML, CSS and JavaScript linters, for this you will need node installed. you can follow the steps [here](https://github.com/microverseinc/linters-config/tree/master/html-css-js) to setup the linters
+Clone this repository to your desired folder, you can also set up linters, for this you will need node installed. you can follow the steps [here](https://github.com/microverseinc/linters-config/tree/master/react-redux) to setup the linters
 
 
 ### Install
@@ -158,7 +157,8 @@ Not yet deployed
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **Make calculations**
-<!-- - [ ] **Submit scores** -->
+- [ ] **Render a home page**
+- [ ] **Render a quote page where you can find quotes about mathematics**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
