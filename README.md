@@ -131,7 +131,7 @@ or if you use css then run this instead of the latter command above
 
 ### Deployment
 
-- [Link](https://sfarida-math-magicians.onrender.com/)
+- [Math Magicians Website](https://sfarida-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
