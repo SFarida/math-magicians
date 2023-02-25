@@ -56,10 +56,7 @@ The following stacks were used
 
 ### Key Features <a name="key-features"></a>
 
-Not yet published
-
-- **Displays scores**
-- **Submit scores**
+- **Calulates**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +131,7 @@ or if you use css then run this instead of the latter command above
 
 ### Deployment
 
-Not yet deployed
+- [Link](https://sfarida-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
