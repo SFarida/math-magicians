@@ -16,9 +16,12 @@ export default function Calculator() {
   };
 
   return (
-    <div className="container py-5">
+    <div className="container d-flex flex-wrap">
+      <div>
+        <h2>Let&apos;s do some math!</h2>
+      </div>
       <div className="table-responsive container">
-        <table className="table table-bordered border-secondary">
+        <table className="table table-bordered border-secondary shadow p-3 mb-5 bg-body-tertiary rounded">
           <tbody>
             <tr className="result">
               <td colSpan={4} className="py-3">{value}</td>

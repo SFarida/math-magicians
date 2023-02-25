@@ -1,19 +1,6 @@
 body {
   margin: 0;
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    'Roboto',
-    'Oxygen',
-    'Ubuntu',
-    'Cantarell',
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Itim', sans-serif;
 }
 
 .result {
@@ -40,4 +27,41 @@ body {
 .numbers td button {
   border: none;
   background: #e0e0e0;
+}
+
+.content{
+  margin: auto;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.nav_link{
+  text-decoration: none;
+  color: white;
+}
+
+.nav_link:hover{
+  color: #f39148;
+}
+
+.link-active {
+  color: #f39148;
+}
+
+.navbar{
+  background-color: #848693;
+}
+
+@media screen and (max-width: 991px) {
+  .content{
+    padding-top: 100px;
+  }
+}
+
+@media screen and (max-width:417px){
+  .content{
+    flex-wrap: wrap;
+    padding-top: 200px;
+  }
 }
